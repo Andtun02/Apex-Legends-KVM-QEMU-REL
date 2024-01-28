@@ -1,0 +1,208 @@
+commit 7df838fcab8f4beef9c4aa7c109c18384b801b01 (HEAD, tag: v1.0.0, origin/main, origin/HEAD, main)
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-10-15
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-10-15
+
+    Bump package version
+
+commit c5b51a8b8d9123d48775f2ecb1cee710bbf2df2e
+Merge: dcf3348 c8e8281
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-10-14
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-10-14
+
+    Merge pull request #168 from ngtcp2/cmake-enable-werror
+    
+    cmake: Enable werror
+
+commit c8e8281133eb7b89a926a83a345fa7106673d163
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-10-14
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-10-14
+
+    cmake: Enable werror
+
+commit dcf3348cf8153093f4c96941b51eab3a1017e136
+Merge: 0e990c8 f19995a
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-10-14
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-10-14
+
+    Merge pull request #167 from ngtcp2/remove-ExtractValidFlags
+    
+    Remove ExtractValidFlags as we did in ngtcp2
+
+commit 0e990c89bdbcee2c99b4b2e450e30a19cb98a747
+Merge: bfed5ed 8a6fdc6
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-10-14
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-10-14
+
+    Merge pull request #165 from ngtcp2/sphinx-rtd-theme
+    
+    Use sphinx_rtd_theme
+
+commit f19995a28b8a2941b9dfc4440ddf9d94c1926a46
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-10-14
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-10-14
+
+    Remove ExtractValidFlags as we did in ngtcp2
+
+commit bfed5ed152b6a1d01e0d976ab5c5789780b9553f
+Merge: 409656e 16b7edc
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-10-14
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-10-14
+
+    Merge pull request #166 from ngtcp2/invoke-result
+    
+    Replace the deprecated std::result_of with std::invoke_result
+
+commit 16b7edc050a6036b12eb083851430c93e05c2702
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-10-14
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-10-14
+
+    Replace the deprecated std::result_of with std::invoke_result
+
+commit 409656ee077b6e56146fb463001c43d0e6238f56
+Merge: e61a004 706e4fe
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-10-14
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-10-14
+
+    Merge pull request #164 from vszakats/cmake-del-unused
+    
+    cmake: delete unused detections, add missing #define
+
+commit e61a004abb4542063c37021b5f610becf9ea2d0d
+Merge: 0ac672a b490aab
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-10-14
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-10-14
+
+    Merge pull request #163 from vszakats/cmake-fast-warnopt-detection
+    
+    cmake: speed up warning option detection
+
+commit 8a6fdc666130ac8b242c9ee063f84254b07d0a85
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-10-14
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-10-14
+
+    Use sphinx_rtd_theme
+
+commit 706e4fe2201c7016c8dec477a741b95ea167ed19
+Author:     Viktor Szakats <commit@vsz.me>
+AuthorDate: 2023-10-14
+Commit:     Viktor Szakats <commit@vsz.me>
+CommitDate: 2023-10-14
+
+    cmake: add missing detection result #define
+
+commit a877d48b98317672f59db088289bc3f4905b74cc
+Author:     Viktor Szakats <commit@vsz.me>
+AuthorDate: 2023-10-14
+Commit:     Viktor Szakats <commit@vsz.me>
+CommitDate: 2023-10-14
+
+    cmake: delete unused header detections
+
+commit b490aabc15aa38dde14b6003eee3bb2746f77c33
+Author:     Viktor Szakats <commit@vsz.me>
+AuthorDate: 2023-10-09
+Commit:     Viktor Szakats <commit@vsz.me>
+CommitDate: 2023-10-14
+
+    cmake: speed up warning option detection
+
+commit 0ac672a936bcfcb471e0a66fa3eed4be664e7aec
+Merge: 723d1ae 13fa007
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-09-15
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-09-15
+
+    Merge pull request #162 from ngtcp2/release-script
+    
+    Add release script
+
+commit 13fa007a83a9154d10f059baa94caf0ddd2cf4af
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-09-15
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-09-15
+
+    Add release script
+
+commit 723d1ae0f25d3cfc27b3a9b7430733db7f89efc5
+Merge: 89500df 6bcafda
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-09-15
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-09-15
+
+    Merge pull request #161 from ngtcp2/dependabot/github_actions/actions/checkout-4
+    
+    Bump actions/checkout from 3 to 4
+
+commit 6bcafdab419358de1992ccb76e5e545f4f6311b0
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2023-09-15
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-09-15
+
+    Bump actions/checkout from 3 to 4
+    
+    Bumps [actions/checkout](https://github.com/actions/checkout) from 3 to 4.
+    - [Release notes](https://github.com/actions/checkout/releases)
+    - [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/actions/checkout/compare/v3...v4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/checkout
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 89500df0b8189c4179863669583c722fdfed4856
+Merge: d407a85 fef765f
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-09-15
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-09-15
+
+    Merge pull request #160 from ngtcp2/dependabot-actions
+    
+    Add dependabot to update actions
+
+commit fef765f784c2f79c835942ae212d0368898e1e41
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-09-15
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-09-15
+
+    Add dependabot to update actions
+
+commit d407a8536198e3ed1712514b3d63a04ebc0045bc
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-09-02
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-09-02
+
+    Bump package version
